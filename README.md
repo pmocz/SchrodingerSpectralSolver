@@ -19,4 +19,4 @@ python specsolv.py 0
 
 1. Free particle
 
-2. Free Particle in SHO - c.f. Mocz & Succi (2015) Fig. 2
+2. Free Particle in SHO - c.f. [Mocz & Succi (2015)](http://adsabs.harvard.edu/abs/2015PhRvE..91e3304M) Fig. 2
