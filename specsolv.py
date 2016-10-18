@@ -12,8 +12,8 @@ Philip Mocz (2016)
 Harvard University
 
 i d_t psi + nabla^2/2 psi -x^2 psi/2 = 0
-Domain: [-1,1]  (periodic)
-Potential: 1/2 x^2
+Domain: [-L,L]  (periodic)
+Potential: e.g. 1/2 x^2
 Initial condition: ???
 
 usage: python specsolv.py problem#
@@ -59,7 +59,7 @@ def main(problem):
     # potential
     V = 0*x
     
-  else: # Free Particle in SHO - c.f. Mocz & Succi (2015) Fig. 2
+  else: # Particle in SHO - c.f. Mocz & Succi (2015) Fig. 2
     # parameters
     N = 1024  
     Nt = 1000 
