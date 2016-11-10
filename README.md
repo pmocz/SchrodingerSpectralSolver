@@ -15,8 +15,8 @@ python specsolv.py 0
 
 # problems
 
-0. Particle in harmonic oscillator potential
+0. problem 0: Particle in harmonic oscillator potential
 
-1. Free particle
+1. problem 1: Free particle
 
-2. Free Particle in SHO - c.f. [Mocz & Succi (2015)](http://adsabs.harvard.edu/abs/2015PhRvE..91e3304M) Fig. 2
+2. problem 2: Particle in SHO - c.f. [Mocz & Succi (2015)](http://adsabs.harvard.edu/abs/2015PhRvE..91e3304M) Fig. 2
